@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem vindo(a)! Eu sou o Kaylor Lira! 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas na FMU.
 - 🌱 Estudando as linguagens C++, C# e Python e aprendendo Unreal para desenvolver games.
