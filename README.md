@@ -1,6 +1,7 @@
 ### Seja bem vindo(a)! Eu sou o Kaylor Lira! 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas na FMU e desenvolvedor front-end iniciante.
+- 📚 Fazendo cursos de Design Web/Front-end e consigo aplicar desde já.
 - 🌱 Estudando as linguagens C++, C# e Python como prioridade, aprendendo Javascript para futuras aplicações e Unreal para desenvolver games.
 
 <div align="center">
