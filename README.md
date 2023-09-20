@@ -1,8 +1,8 @@
 ### Seja bem vindo(a)! Eu sou Hidemi! 👋
 
-- 🔭 Designer gráfico com um pouco de conhecimento de lógica de programação
-- 📚 Fazendo cursos de Design Web/Front-end e consigo aplicar desde já.
-- 🌱 Estudando as linguagens C++, C# e Python como prioridade, aprendendo Javascript para futuras aplicações e Unreal para desenvolver games.
+- 🔭 Designer gráfico com conhecimento de lógica de programação, se baseando principalmente em C e Blueprints.
+- 💼 Atualmente trabalhando como Editor de Vídeos e Designer Gráfico freelancer.
+- 🌱 Estudando Unreal Engine para produção e criação de jogos.
 
 <div align="center">
   <a href="https://github.com/hidetakadesu">
